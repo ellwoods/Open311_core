@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+      
+      <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Version>0.1.0</Version>
+    <Description>C# Class library for interating with the Open311 API V2. dotnet core lts version</Description>
+    <RepositoryType>git</RepositoryType>
+    <PackageReleaseNotes>Converted from framework version</PackageReleaseNotes>
+    <Copyright>Mark J. Headd, Civic.io</Copyright>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="AssemblyInfo.cs" />
+  </ItemGroup>
+
+</Project>

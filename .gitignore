@@ -1,0 +1,12 @@
+# Ignore Compiled source and Debug Files #
+##########################################
+*.dll
+*.mdb
+*.exe
+*.userprefs
+.idea
+.vs
+/bin
+*/bin
+*/obj
+*.user
